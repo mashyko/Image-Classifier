@@ -10,3 +10,10 @@ When run on the Google Colab, image data, such as elephant.jpg,  must be uploade
  
 img_path = '/content/drive/My Drive/images/elephant.jpg'
 
+or
+
+!git clone https://github.com/mashyko/Image-Classifier/
+
+%cd Image-Classifier
+
+img_path = 'images/xxx.jpg
