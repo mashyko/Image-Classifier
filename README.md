@@ -1,6 +1,6 @@
-# Image-Classifier-Keras
+# Image-Classifier: Tensorflow and Pytorch
 
-examples of image classification problems using Keras + Tensorflow 2.0
+examples of image classification problems using Tensorflow 2.0 or Pytorch
 
 When run on the Google Colab, image data, such as elephant.jpg,  must be uploaded and located in the directory: 
 
