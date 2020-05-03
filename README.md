@@ -1,4 +1,4 @@
-#1 Image-Classifier for Tensorflow
+# Image-Classifier for Tensorflow
 
 To implement the notebooks using Keras + Tensorflow 2.0,
  the image data is required , so that image data, such as elephant.jpg,  must be uploaded and located in the 'images' directory: 
@@ -11,9 +11,10 @@ or
 !git clone https://github.com/mashyko/Image-Classifier/
 
 
-#2 Image Classification for Pytorch
+# Image Classification for Pytorch
 
  Cifar_pytorch.ipynb,and  alex_cufar10.ipynb
+ 
  just run the notebook on the Google Colab.
 
 # Transfer learning or Fine tuning codes for Pytorch
