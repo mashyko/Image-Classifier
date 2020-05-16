@@ -1,19 +1,14 @@
 # Image-Classifier for Tensorflow
 
-To implement the notebooks using Keras + Tensorflow 2.0,
- the image data is required , so that image data, such as elephant.jpg,  must be uploaded and located in the 'images' directory: 
- setting the image_path below:
- 
-img_path = '/content/drive/My Drive/images/elephant.jpg'
+To implement the notebooks using Keras + Tensorflow 2.0,　such as InceptionV3.ipynb, VGG_ResNet50.ipynb, MobileNet.ipynb
 
-or
-
+ the image data is required so that it  must be uploaded and located in the 'images' directory: 
 !git clone https://github.com/mashyko/Image-Classifier/
 
 
 # Image Classification for Pytorch
 
- Cifar_pytorch.ipynb,and  alex_cufar10.ipynb
+ Cifar_pytorch.ipynb,and  alex_cifar10.ipynb
  
  just run the notebook on the Google Colab.
 
