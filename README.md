@@ -1,9 +1,12 @@
 # Image-Classifier for Tensorflow
 
-To implement the notebooks using Keras + Tensorflow 2.0,　such as InceptionV3.ipynb, VGG_ResNet50.ipynb, MobileNet.ipynb
+To implement the notebooks using Keras + Tensorflow 2.0,　such as 
 
- the image data is required so that it  must be uploaded and located in the 'images' directory: 
-!git clone https://github.com/mashyko/Image-Classifier/
+  InceptionV3.ipynb, VGG_ResNet50.ipynb, MobileNet.ipynb,
+
+the image data is required so that it  must be uploaded and located in the 'images' directory.
+
+ !git clone https://github.com/mashyko/Image-Classifier/ and just run the notebooks,
 
 
 # Image Classification for Pytorch
