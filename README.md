@@ -11,7 +11,7 @@ the image data is required so that it  must be uploaded and located in the 'imag
 
 # Image Classification for Pytorch
 
- Cifar_pytorch.ipynb,and  alex_cifar10.ipynb
+ pytorch_AlexNet.ipynb, image_classifier_vgg_pytorch.ipynb, Cifar_pytorch.ipynb,and  alex_cifar10.ipynb
  
  just run the notebook on the Google Colab.
 
